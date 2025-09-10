@@ -23,3 +23,5 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 - Preço
 
 Quantidade de dados: 300.000
+
+![Gif que exemplifica o dashboard](https://i.imgur.com/RWLGQ2R.gif)
